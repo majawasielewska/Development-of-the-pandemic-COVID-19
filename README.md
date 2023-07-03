@@ -7,4 +7,5 @@ Then, due to instability problems with the fit procedure, which is sensitive to 
 The final conclusion of the project: no exponential relationship (no exponential increase in SARS-CoV-2 infections).
 
 Interpretation of the adjusted parameters U, T, N included in the work: https://doi.org/10.1101/2020.06.26.20140814
+
 Data collected and compiled by Michał Rogalski: bit.ly/covid19-poland
