@@ -8,4 +8,4 @@ The final conclusion of the project: no exponential relationship (no exponential
 
 Interpretation of the adjusted parameters U, T, N included in the work: https://doi.org/10.1101/2020.06.26.20140814
 
-Data collected and compiled by Michał Rogalski: bit.ly/covid19-poland
+The data (current_data.txt) collected and compiled by Michał Rogalski: bit.ly/covid19-poland
