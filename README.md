@@ -1,3 +1,5 @@
+# Development-of-the-pandemic-COVID-19
+
 The aim of the project was to solve the problem of approximation of the curve in connection with the SARS-CoV-2 infection, in order to determine the growth dynamics. It was a complicated task because I was dealing with an increase in the population under pressure, which limited the population resources. Due to the lack of exponential growth throughout the epidemic and the limited number of individuals, I was forced to use a different type of curve to approximate the data. 
 
 My data is collected every 3 weeks, so it fluctuates every 3 weeks. I matched the total number of infections and ran a best-fit curve around the points, the so-called Gompertz curve.
